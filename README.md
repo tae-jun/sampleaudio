@@ -52,10 +52,10 @@ wget http://mi.soi.city.ac.uk/datasets/magnatagatune/mp3.zip.003
 After download the files, merge and expand the three `.zip` files:
 ```sh
 cat mp3.zip.* > mp3_all.zip
-unzip mp3_all.zip
+unzip mp3_all.zip -d mp3
 ```
 
-Your directory structure should look like this (NOTE: you may need to create `mp3` directory as below):
+Your directory structure should look like this:
 ```sh
 data
 └── mtt
