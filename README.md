@@ -1,5 +1,5 @@
 # SampleCNNs for Audio Classifications
-This repository contains the code that used to the publication below:
+This repository contains the code that used for the publication below:
 > Taejun Kim, Jongpil Lee, and Juhan Nam, "Comparison and Analysis of SampleCNN Architectures for Audio Classification"
 in IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2019.
 
